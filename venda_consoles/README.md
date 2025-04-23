@@ -44,9 +44,9 @@ Arquivo exportado do Power BI:
 
 ## Principais insights
 
-**Sony: líder de vendas**  
-A Sony se destaca com os maiores volumes de vendas no histórico, especialmente com consoles como o PlayStation 2.  
-![Sony](./imagens/vendas_sony.png)
+**Nntendo: líder de vendas**  
+A Nintendo se destaca com os maiores volumes de vendas no histórico, especialmente com consoles como o Nintendo Wii.  
+![Nintendo](./imagens/vendas_sony.png)
 
 ---
 
@@ -71,10 +71,10 @@ Visão consolidada com gráficos comparativos, filtros por região, indicadores 
 ## Referência bibliográfica
 
 Os dados utilizados neste projeto foram extraídos da base pública:  
-**Video Game Sales with Ratings**. Disponível em: [Kaggle - vgsales](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings). Acesso em: abril de 2025.
+**Video Game Sales with Ratings**. Disponível em: [Kaggle - vgsales.
 
 ---
 
 ## Sobre a autora
 
-Jéssica Almeida é formada em Análise e Desenvolvimento de Sistemas e está em transição de carreira para a área de Análise de Dados. Possui conhecimento em ferramentas como Power BI, SQL, Python, Excel e Power Query, e vem construindo projetos para demonstrar suas habilidades em dados e visualização.
+Jéssica Almeida formada em Análise e Desenvolvimento de Sistemas e está em transição de carreira para a área de Análise de Dados. Possui conhecimento em ferramentas como Power BI, SQL, Python, Excel e Power Query, e vem construindo projetos para demonstrar suas habilidades em dados e visualização.
