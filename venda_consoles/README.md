@@ -74,7 +74,3 @@ Os dados utilizados neste projeto foram extraídos da base pública:
 **Video Game Sales with Ratings**. Disponível em: [Kaggle - vgsales.
 
 ---
-
-## Sobre a autora
-
-Jéssica Almeida formada em Análise e Desenvolvimento de Sistemas e está em transição de carreira para a área de Análise de Dados. Possui conhecimento em ferramentas como Power BI, SQL, Python, Excel e Power Query, e vem construindo projetos para demonstrar suas habilidades em dados e visualização.
